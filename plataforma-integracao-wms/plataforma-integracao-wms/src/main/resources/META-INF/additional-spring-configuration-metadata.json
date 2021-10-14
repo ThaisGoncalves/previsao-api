@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.oracle.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.oracle.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.datasource.username'"
+  },
+  {
+    "name": "spring.oracle.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.oracle.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.datasource.password'"
+  },
+  {
+    "name": "spring.oracle.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.oracle.gko.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.gko.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.oracle.gko.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.gko.datasource.username'"
+  },
+  {
+    "name": "spring.oracle.gko.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.gko.datasource.password'"
+  },
+  {
+    "name": "spring.oracle.gko.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.gko.datasource.driver-class-name'"
+  }
+]}
